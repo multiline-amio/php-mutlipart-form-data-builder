@@ -1,1 +1,3 @@
-# php-mutlipart-form-data-builder
+# PHP Mutlipart Form Data Builder
+
+See `example/sender.php` file.
