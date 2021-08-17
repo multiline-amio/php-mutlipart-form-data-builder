@@ -1,0 +1,26 @@
+{
+    "name": "multiline-amio/php-mutlipart-form-data-builder",
+    "description": "Build multipart form data string for HTTP request",
+    "keywords": [
+        "multiline-amio",
+        "php-mutlipart-form-data-builder"
+    ],
+    "homepage": "https://github.com/multiline-amio/php-mutlipart-form-data-builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Panfilov",
+            "email": "r.panfilov@amio.ru",
+            "homepage": "https://www.amio.ru/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MultilineAmio\\": "src/"
+        }
+    }
+}
