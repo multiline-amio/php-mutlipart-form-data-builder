@@ -8,7 +8,7 @@
 You can install the package via composer:
 
 ```bash
-composer require spatie/data-transfer-object
+composer require multiline-amio/php-mutlipart-form-data-builder
 ```
 
 ## Usage
